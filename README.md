@@ -1,13 +1,21 @@
 # Quiz-Application-App
 Quiz Application (Java)
 ** Overview ** This is a console-based Quiz Application created in Java. The program presents multiple-choice questions to the user, accepts input, checks if it is correct, and tracks the final score.
+
+
+
 ** Features **
 
 Multiple-choice questions (4 options each)
+
 Instant feedback (Correct / Wrong)
+
 Score tracking throughout the quiz
+
 Final result with a performance message
+
 Simple and beginner-friendly Java project
+
 ** Technologies Used **
 Language: Java
 IDE (optional): Eclipse, IntelliJ IDEA, VS Code
